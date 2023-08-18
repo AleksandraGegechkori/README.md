@@ -39,6 +39,8 @@
 
 (https://github.com/AleksandraGegechkori/README.md/new/main)
 
+https://github.com/AleksandraGegechkori/README.md/blob/main/2023-08-18_09-41-50.png
+
 Выводы (итоги):
 
 В таблице Classes, в графе class_statys есть уроки без статуса.  Информация о статусе уроков не вносится?
